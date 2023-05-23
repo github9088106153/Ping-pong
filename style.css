@@ -1,0 +1,55 @@
+
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid rgb(255, 0, 0);
+}
+.big_image{
+    width:100%;
+}
+#start,#restart
+{
+  
+   
+   
+    font-size: 18px;
+    border-color: #ff6200;
+}
+#status{
+    font-size: 22px;
+}
+h4{
+    background-color: rgb(115, 0, 255);
+    line-height: 2;
+    margin-bottom: 0px;
+}
+.modal-dialog{
+    width: 90%;
+    
+}
+.instruction-image{
+    display: inline-block;
+    width: 45%;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    bottom: 0;
+    padding-top: 5px;
+    width: 100%;
+    background-color: rgba(176, 174, 174, 0.635);
+    line-height: 3;
+    text-align: center;
+
+    
+  
+    
+    
+}
